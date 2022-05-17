@@ -1,0 +1,295 @@
+{
+  "code": 0,
+  "msg": null,
+  "success": true,
+  "data": [
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 252,
+          "needTotal": 100,
+          "realTotal": 52,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 48,
+          "needTotal": 100,
+          "realTotal": 45,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 34,
+          "needTotal": 100,
+          "realTotal": 17,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "鹿城",
+      "areaCode": "/1472925989369724929/1472926706436325377"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "永嘉",
+      "areaCode": "/1472925989369724929/1472928608133758977"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 2,
+          "needTotal": 100,
+          "realTotal": 1,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 1,
+          "needTotal": 100,
+          "realTotal": 1,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "乐清",
+      "areaCode": "/1472925989369724929/1472926250431594497"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 2,
+          "needTotal": 100,
+          "realTotal": 1,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 20,
+          "needTotal": 100,
+          "realTotal": 2,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "洞头",
+      "areaCode": "/1472925989369724929/1472926183658274817"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 1,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 1,
+          "needTotal": 100,
+          "realTotal": 2,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 5,
+          "needTotal": 100,
+          "realTotal": 3,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "瓯海",
+      "areaCode": "/1472925989369724929/1472927088403202049"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 1,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 1,
+          "needTotal": 100,
+          "realTotal": 1,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "龙湾",
+      "areaCode": "/1472925989369724929/1472926619756838914"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "瑞安",
+      "areaCode": "/1472925989369724929/1472927666839666690"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "文成",
+      "areaCode": "/1472925989369724929/1472928431209627650"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "平阳",
+      "areaCode": "/1472925989369724929/1472927242212524034"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "龙港",
+      "areaCode": "/1472925989369724929/1472926515457081346"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 9,
+          "needTotal": 100,
+          "realTotal": 72,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "苍南",
+      "areaCode": "/1472925989369724929/1472925995141087233"
+    },
+    {
+      "teamStatisticDeatils": [
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 2,
+          "teamType": "流调溯源队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "核酸检测队"
+        },
+        {
+          "perTotal": 0,
+          "needTotal": 100,
+          "realTotal": 0,
+          "teamType": "社区封控队"
+        }
+      ],
+      "areaName": "泰顺",
+      "areaCode": "/1472925989369724929/1472928189592551426"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id":"",
+  "status":"",
+  "testTitle": "试卷名称",
+  "chooseAnswer":"",
+  "isFaBuFlag":"",// 是否发布 1 待发布 2 已发布
+  "topics": [
+    {
+      "label": "单项选择",
+      "cId": "unitermingTopic",
+      "icon": "uniterming",
+      "options": [
+        {
+          "aId": 1638930576357,
+          "answerContent": "选项一"
+        }
+      ],
+      "questionName": "单项选择",
+      "correctAnswer": 1638930576357,
+      "chooseAnswer": ""
+    },
+    {
+      "label": "多项选择",
+      "cId": "multipleChoiceTopic",
+      "icon": "multipleChoice",
+      "options": [
+        {
+          "aId": 1638930576357,
+          "answerContent": "选项一"
+        }
+      ],
+      "questionName": "多项选择",
+      "correctAnswer": [
+        1638930576357
+      ],
+      "chooseAnswer": ""
+    },
+    {
+      "label": "判断题",
+      "cId": "judgeTopic",
+      "icon": "judge",
+      "options": [
+        {
+          "aId": 1638930576357,
+          "answerContent": "选项一"
+        }
+      ],
+      "questionName": "判断题",
+      "correctAnswer": 1638930576357,
+      "chooseAnswer": ""
+    }
+  ],
+  "testConfig": {
+    "unitermingScore": 5,
+    "multipleChoiceScore": 2,
+    "judgeScore": {
+      "allRight": 3,
+      "portion": 0,
+      "chooseError": 0
+    },
+    "testTime": 60
+  }
+}
+
+testTitle:试卷名称
+topics:试卷选项集合（单选、多选、判断）
+testConfig:试卷配置（选项分数配置、试卷答题时间）
+
+{
+  "label": "单项选择",
+  "cId": "unitermingTopic", //问题类型
+  "icon": "uniterming",
+  "options": [  // 问题选项集合 （aId：选项ID，answerContent：选项内容描述）
+    {
+      "aId": 1638930576357,
+      "answerContent": "选项一"
+    }
+  ],
+  "questionName": "单项选择", // 问题描述
+  "correctAnswer": 1638930576357, // 正确答案 
+  "chooseAnswer": ""  // 选中的正确答案  
+},

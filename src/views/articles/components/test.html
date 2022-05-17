@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<video id="test" autoplay></video>
+<script>
+    navigator.mediaDevices.getDisplayMedia({video:true}).then(stream => {
+        document.getElementById("test").srcObject = stream; 
+    }).catch(error => {
+        console.log(error);
+    });
+</script>
+</html>
